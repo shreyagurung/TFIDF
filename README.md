@@ -17,6 +17,8 @@ IDF: Inverse Document Frequency, which measures how important a term is. While c
 
 ## Explanation of Code
 The [function.py](https://github.com/shreyagurung/TFIDF/blob/master/function.py) calculates the TF*IDF. Here the helper functions are called like [stemmingAndRemovingStopWordsClass.py](), this function removes and stems StopWords (commonly used words such as 'a','the','that,'an','in', etc). NLTK has an inbuilt function to remove it directly.
-There are three other classes that are imported namely the 3 dangerous Cs Coffee, Chocolate and Cheese. These classes extract words from a document and store them in lists.
+There are three other classes that are imported namely the 3 dangerous Cs Coffee, Chocolate and Cheese. These classes extract words from a document and store them in the form of lists that can be easily manupulated by python.
+
+
 
 
