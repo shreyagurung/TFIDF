@@ -1,4 +1,4 @@
-cheese:0.17107 
+cheese:0.171077 
 Cottage:0.09904 
 cottage:0.09904 
 curd:0.07203 
@@ -655,7 +655,7 @@ Sudan:0.00664
 Madagascar:0.00664 
 Comoros:0.00664 
 Mauritius:0.00664 
-Réunion:0.00664 
+RÃ©union:0.00664 
 Indian:0.00664 
 Ocean:0.00664 
 2:0.00664 
