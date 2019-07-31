@@ -1,6 +1,6 @@
 cheese:0.08552
 Cheese:0.08552
-milk:0.02851
+milk:0.028511
 cottage:0.02193
 Cottage:0.02193
 curd:0.01754
@@ -645,7 +645,7 @@ Sudan:0.00221
 Madagascar:0.00221
 Comoros:0.00221
 Mauritius:0.00221
-Réunion:0.00221
+RÃ©union:0.00221
 Indian:0.00221
 Ocean:0.00221
 2:0.00221
