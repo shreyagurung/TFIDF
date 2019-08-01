@@ -28,8 +28,7 @@ for item in list3:
 			ceestr=ceestr+" "+r
 	list1.append(ceestr)
 	ceestr=" "
-#for item in list1:
-#	print(item)
+
 
 
 	
