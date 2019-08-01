@@ -13,4 +13,4 @@ class coffee:
 		list_coffee.append(data)
 	
 		coffeeStr=str(list_coffee)
-	#print(coffeeStr)
+	
