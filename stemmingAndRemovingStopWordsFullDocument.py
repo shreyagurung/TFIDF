@@ -37,5 +37,7 @@ for item in list1:
 			ceestr=ceestr+" "+r
 	list2.append(ceestr)
 	ceestr=" "
+	
+	
 
 	
