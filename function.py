@@ -63,6 +63,5 @@ thefile1=open('TFID1.txt','w')
 for item in finalist1:
   thefile1.write("%s\n" % item)
         
-#print(list_word)
 
 
